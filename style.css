@@ -684,7 +684,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    
     margin: auto auto auto auto;
 }
 
@@ -832,6 +832,11 @@ h4 {
 
 .row{
     justify-content: center;
+   text-align: -webkit-center;
+   
+    }
+.row-contact{
+    display:block;
 }
 
 
