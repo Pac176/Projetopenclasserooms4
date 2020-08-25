@@ -633,6 +633,7 @@ a[data-lightbox]:hover img {
 
 .snapshot-lb .modal-body {
     padding-bottom: 45px;
+    text-align:center;
 }
 
 .snapshot-lb .lightbox-caption {
