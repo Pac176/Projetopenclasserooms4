@@ -1413,7 +1413,9 @@ a {
 a:focus,
 a:hover {
     color: #23527c;
-    text-decoration: underline
+    text-decoration: underline;
+    
+    
 }
 
 a:focus {
@@ -1437,7 +1439,8 @@ img {
 .thumbnail>img {
     display: block;
     max-width: 100%;
-    height: auto
+    height: auto;
+    margin:auto;
 }
 
 .img-rounded {
